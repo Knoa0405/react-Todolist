@@ -1,6 +1,9 @@
 # react-Todolist
 react todolist with function component / styled-components / react-icons / polished
 
+<center><img src="react-todolist.PNG" width="30%" height="50%"/></center>
+
+
 # < TodoList 구조 >
  
 - TodoHead - 
